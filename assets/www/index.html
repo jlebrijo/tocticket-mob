@@ -1,30 +1,25 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <meta name="viewport" content="width=320; user-scalable=no" />
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <title>Minimal AppLaud App</title>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width" />
+    <title>Bar Code Scanner</title>
+    <link rel="stylesheet" href="main.css" type="text/css" />
 
-	  <script type="text/javascript" charset="utf-8" src="cordova-1.6.1.js"></script>
-	  <script type="text/javascript" charset="utf-8">
-      
-        var onDeviceReady = function() {
-            document.getElementById("devready").innerHTML = "OnDeviceReady fired.";
-        };
-
-        function init() {
-            document.addEventListener("deviceready", onDeviceReady, true);
-        }   
-</script>  
+    <script type="text/javascript" charset="utf-8" src="cordova-1.6.1.js"></script>
+    <script type="text/javascript" src="barcodescanner.js"></script>
+    <script type="text/javascript" src="main.js"></script>
 
   </head>
-  <body onload="init();" id="stage" class="theme">
-    <h2>Tocticket Mobile App</h2>
-
-	<p>Your app goes here.</p>
-	<p>
-    <span id="devready">onDeviceReady not fired.</span>
-    </p>
-
+  <body id="stage" class="theme">
+    <h1>Barcode Scanner and Encoder</h1>
+    <h2>PhoneGap Barcode Scanner Plugin</h2>
+    
+    <a href="#" class="btn" onclick="scanCode();">Scan Code</a>
+    
+    <a href="#" class="btn enc" onclick="encodeText();">Encode Text</a> 
+    <a href="#" class="btn enc" onclick="encodeEmail();">Encode Email</a>   
+    <a href="#" class="btn enc" onclick="encodePhone();">Encode Phone</a>   
+    <a href="#" class="btn enc" onclick="encodeSMS();">Encode SMS</a>   
   </body>
 </html>
