@@ -1,10 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85bd7c12-315d-4c9a-9f65-33baffbbb3eb" name="Default" comment="" />
+    <list default="true" id="5815daae-f209-4965-bea6-22d43fd556a9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/tocticket/mob/R$drawable.class" afterPath="$PROJECT_DIR$/bin/classes/tocticket/mob/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/tocticket/mob/R$layout.class" afterPath="$PROJECT_DIR$/bin/classes/tocticket/mob/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/tocticket/mob/R$string.class" afterPath="$PROJECT_DIR$/bin/classes/tocticket/mob/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/tocticket/mob/R$xml.class" afterPath="$PROJECT_DIR$/bin/classes/tocticket/mob/R$xml.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/tocticket/mob/R.class" afterPath="$PROJECT_DIR$/bin/classes/tocticket/mob/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes.dex" afterPath="$PROJECT_DIR$/bin/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/resources.ap_" afterPath="$PROJECT_DIR$/bin/resources.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/tocticket-mob.apk" afterPath="$PROJECT_DIR$/bin/tocticket-mob.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/AndroidManifest.xml" afterPath="$PROJECT_DIR$/bin/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gen/tocticket/mob/R.java" afterPath="$PROJECT_DIR$/gen/tocticket/mob/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/index.html" afterPath="$PROJECT_DIR$/assets/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/xml/plugins.xml" afterPath="$PROJECT_DIR$/res/xml/plugins.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.properties" afterPath="$PROJECT_DIR$/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="tocticket-mob.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="85bd7c12-315d-4c9a-9f65-33baffbbb3eb" time="1365015892997" ignored="false" />
+    <file path="/Dummy.txt" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365179308341" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Lebrijo.com/Foxwordy/app/views/connections/_directory.html.haml" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365069668596" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Lebrijo.com/Foxwordy/app/views/resources/mark_hidden.js.haml" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365156992687" ignored="false" />
+    <file path="/mark_hidden.js.haml" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365070779814" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Lebrijo.com/Foxwordy/app/controllers/resources_controller.rb" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365156992687" ignored="false" />
+    <file path="/en.yml" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365159486879" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Lebrijo.com/Foxwordy/config/locales/en.yml" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365159582954" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Lebrijo.com/Foxwordy/app/views/resources/new.html.haml" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365156992687" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Lebrijo.com/Foxwordy/app/views/notifications/index.html.haml" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365156992687" ignored="false" />
+    <file path="/index.html.haml" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365174570294" ignored="false" />
+    <file path="/*.regexp" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365092347806" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Lebrijo.com/Foxwordy/app/assets/javascripts/notifications.js.coffee" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365156992687" ignored="false" />
+    <file path="/notifications.js.coffee" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365093260188" ignored="false" />
+    <file path="/notifications_controller.rb" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365090693620" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Lebrijo.com/Foxwordy/app/controllers/notifications_controller.rb" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365156992687" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Lebrijo.com/Foxwordy/app/views/notifications/destroy.js.haml" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365156992687" ignored="false" />
+    <file path="/destroy.js.haml" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365092683382" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Lebrijo.com/Foxwordy/app/views/resources/_form.html.haml" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365156992687" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Lebrijo.com/Foxwordy/app/assets/javascripts/multifile_upload.js.coffee" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365098987928" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Lebrijo.com/Foxwordy/app/controllers/referral_questions_controller.rb" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365156992687" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Lebrijo.com/Foxwordy/app/views/connections/index.html.haml" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365174571556" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Lebrijo.com/Foxwordy/app/models/connection_sorter.rb" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365178975693" ignored="false" />
+    <file path="/connection_sorter.rb" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365177183336" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Lebrijo.com/Foxwordy/app/views/shared/_people_menu.html.haml" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365175935707" ignored="false" />
+    <file path="/_people_menu.html.haml" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365158979608" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Lebrijo.com/Foxwordy/app/assets/javascripts/connections.js.coffee" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365173398889" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Lebrijo.com/Foxwordy/app/views/shared/_user_navigation_menu.html.haml" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365175912315" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Lebrijo.com/Foxwordy/app/models/user.rb" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365174677200" ignored="false" />
+    <file path="/user.rb" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365174677200" ignored="false" />
+    <file path="/fragment.rb" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365176934474" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Lebrijo.com/Foxwordy/app/views/connections/_filters.html.haml" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365178968371" ignored="false" />
+    <file path="/index.html" changelist="5815daae-f209-4965-bea6-22d43fd556a9" time="1365186702133" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,10 +68,28 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="4" selection-start="322" selection-end="322" vertical-scroll-proportion="-5.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/www/main.css">
+          <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/www/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="29" selection-start="317" selection-end="317" vertical-scroll-proportion="0.22058824">
               <folding />
             </state>
           </provider>
@@ -57,7 +122,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -125,52 +190,86 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
-    <option name="USER" value="" />
-    <option name="PASSWORD" value="" />
-    <option name="mySSHConnectionTimeout" value="30000" />
-    <option name="mySSHReadTimeout" value="30000" />
-    <option name="LAST_MERGED_REVISION" />
-    <option name="MERGE_DRY_RUN" value="false" />
-    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
-    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
-    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="DETECT_NESTED_COPIES" value="true" />
-    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
-    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
-    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
-    <option name="FORCE_UPDATE" value="false" />
-    <option name="IGNORE_EXTERNALS" value="false" />
-    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="85bd7c12-315d-4c9a-9f65-33baffbbb3eb" name="Default" comment="" />
-      <created>1365015413461</created>
-      <updated>1365015413461</updated>
+      <changelist id="5815daae-f209-4965-bea6-22d43fd556a9" name="Default" comment="" />
+      <created>1365020397438</created>
+      <updated>1365020397438</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1920" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32985386" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973261" sideWeight="0.97077245" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973261" sideWeight="0.67014617" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -243,7 +342,21 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="4" selection-start="322" selection-end="322" vertical-scroll-proportion="-5.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/www/main.css">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/www/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="29" selection-start="317" selection-end="317" vertical-scroll-proportion="0.22058824">
           <folding />
         </state>
       </provider>
