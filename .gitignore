@@ -20,6 +20,8 @@ bin/
 
 #Ides
 .settings/
+.project
+.classpath
 .idea/
  
 # Local configuration file (sdk path, etc)
