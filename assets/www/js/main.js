@@ -1,4 +1,11 @@
-var SERVER = "http://192.168.10.139:3000";
+
+// GLOBAL VARIABLES
+//===================
+
+//var SERVER = "http://192.168.10.139:3000";  // Local
+var SERVER = "http://demo.tocticket.com";  // Demo
+//var SERVER = "http://www.tocticket.com";  // Production
+
 var API = {
     get_token: SERVER + "/api/v1/tokens",
     events: function() {
@@ -12,10 +19,14 @@ var API = {
 var token = null;
 var selected_event = null;
 
+// INIT
+//=======
 $(document).ready(function() {
     render_partial("login", signing_in);
 });
 
+// PAGINATION
+//=============
 function render_partial(template, callback) {
     $.get("templates/_" + template + ".html", function(template) {
         $("#content").html(template);
@@ -26,6 +37,8 @@ function render_partial(template, callback) {
 
 };
 
+// ACTIONS
+//===========
 var signing_in = function() {
     $("form").submit(function(e) {
         e.preventDefault();
