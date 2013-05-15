@@ -104,39 +104,37 @@ var scanning_code = function () {
             if (result.cancelled) {
                 render_partial("events", listing_events);
             } else {
-                render_partial("ticket");
-                // Checking Ticket
-                var qr_array = result.text.split("/");
-                var ticket_req = "event=" + selected_event + "&ticket=" + qr_array[0] + "&key=" + qr_array[1]
-                $("#loading").show();
-                $.ajax({
-                    type: "POST",
-                    url: API.check_ticket(),
-                    dataType: "json",
-                    data: ticket_req,
-                    success: function (data){
-                        $("#loading").hide();
-                        ticket = data;
-                        $("#ticket .alert-success").html("Valid Ticket.").show();
-                        $('<p>', {
-                            text: "Attendees: " + ticket.attendees
-                        }).appendTo('#ticket .detail');
-                        $('<p>', {
-                            text: "Email: " + ticket.email
-                        }).appendTo('#ticket .detail');
-                    },
-                    error: function(xhr, ajaxOptions, thrownError) {
-                        $("#loading").hide();
-                        var message = (xhr.responseText==undefined)? xhr.statusText : $.parseJSON(xhr.responseText).message;
-                        $("#ticket .alert-error").html(message).show();
-                    }
-                });
-                // Back to scan button
-                $(document).on("click", "#ticket .btn", function(e) {
-                    scanning_code();
-                });
+                check_ticket(result);
             }
         }, function (error) {
             alert("Scan failed: " + error);
         });
+};
+
+var check_ticket =  function (code) {
+    render_partial("ticket");
+    // Checking Ticket
+    var qr_array = code.text.split("/");
+    var ticket_req = "event=" + selected_event + "&ticket=" + qr_array[0] + "&key=" + qr_array[1]
+    $("#loading").show();
+    $.ajax({
+        type: "POST",
+        url: API.check_ticket(),
+        dataType: "json",
+        data: ticket_req,
+        success: function (data){
+            $("#loading").hide();
+            $("#ticket .alert-success").html("Valid Ticket.").show();
+            $('#ticket .detail').append(data.html);
+        },
+        error: function(xhr, ajaxOptions, thrownError) {
+            $("#loading").hide();
+            var message = (xhr.responseText==undefined)? xhr.statusText : $.parseJSON(xhr.responseText).message;
+            $("#ticket .alert-error").html(message).show();
+        }
+    });
+    // Back to scan button
+    $(document).on("click", "#ticket .btn", function(e) {
+        scanning_code();
+    });
 };
